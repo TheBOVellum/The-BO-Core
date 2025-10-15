@@ -1,0 +1,5 @@
+All original material in this repository is ©Jon M Simpson (Alias Arch Langford),2025.
+This repository and its commit history serve as public proof of authorship.
+Do not copy, redistribute, or derive without written permission.
+
+Unauthorized use, reproduction, or distribution of any material herein constitutes infringement of intellectual property rights under applicable law.
